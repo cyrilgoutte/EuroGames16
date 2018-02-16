@@ -1,8 +1,13 @@
 # EuroGames16
 
-A collection for benchmarking change detection
+A collection for benchmarking change detection.
+
+This si the data used in the paper:
+
+Goutte, C., Wang, Y., Liao, F., Zanussi, Z., Larkin, S. and Grinberg, Y. (2018) EuroGames16: Evaluating Change Detection in Online Conversation, Proc. 11th Language Resources and Evaluation Conference (LREC-2018).
 
 The dataset is available here:
+
 https://sites.google.com/site/cyrilgoutte/research-1/Euro16.zip
 
 The collection is available as a zip file containing
