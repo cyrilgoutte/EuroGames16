@@ -34,3 +34,6 @@ Other files available here allow to run simple analysis on the data. (tbd)
 
 ## Licence
 
+This data is made available for benchmarking and evaluation purposes.
+
+Please contact us if you'd like to apply the preprocessing to your own data.
