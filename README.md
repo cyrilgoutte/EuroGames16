@@ -2,9 +2,15 @@
 
 A collection for benchmarking change detection.
 
-This si the data used in the paper:
+## Reference
+
+This data is used in our paper:
 
 Goutte, C., Wang, Y., Liao, F., Zanussi, Z., Larkin, S. and Grinberg, Y. (2018) EuroGames16: Evaluating Change Detection in Online Conversation, Proc. 11th Language Resources and Evaluation Conference (LREC-2018).
+
+This would also be the proper bibliographical reference for that resource.
+
+## Availability
 
 The dataset is available here:
 
@@ -16,7 +22,7 @@ The collection is available as a zip file containing
 * gameTimes16: A list of UTC start times for the games
 * 16 directories identified by the date and trigram combination for each game
 
-Each directory contains 6 files:
+Each directory contains 6 files (where - stands for the trigram combination for each game):
 * -15sec.csv: preprocessed sentiment time series with 15s bins
 * -30sec.csv: preprocessed sentiment time series with 30s bins
 * -60sec.csv: preprocessed sentiment time series with 60s bins
@@ -25,3 +31,6 @@ Each directory contains 6 files:
 * events_comments.json: events and comments in JSON format
 
 Other files available here allow to run simple analysis on the data. (tbd)
+
+## Licence
+
